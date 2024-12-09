@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\bin\Debug\vjezbaocjena.exe.config
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\bin\Debug\vjezbaocjena.exe
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\bin\Debug\vjezbaocjena.pdb
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\obj\Debug\vjezbaocjena.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\obj\Debug\vjezbaocjena.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\obj\Debug\vjezbaocjena.exe
+C:\Users\Ucenik\source\repos\vjezbaocjena\vjezbaocjena\obj\Debug\vjezbaocjena.pdb
